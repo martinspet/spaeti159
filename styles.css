@@ -203,3 +203,12 @@ a {
   color: white;
   margin-left: -120px;
 }
+@font-face {
+  font-family: "Ardela Edge Italic Variable X01";
+  src: url("font/ardela-edge-italic-variable-x01.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Aeonik";
+  src: url("font/aeonik.woff") format("woff");
+}
