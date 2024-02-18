@@ -204,8 +204,8 @@ a {
   margin-left: -120px;
 }
 @font-face {
-  font-family: "Ardela Edge Italic Variable X01";
-  src: url("ARDELA EDGE X01 Italic Variable.ttf") format("ttf");
+  font-family: 'Ardela Edge Italic Variable X01';
+  src: url('ARDELA_EDGE_X01_Italic_Variable.ttf') format('truetype');
 }
 
 @font-face {
