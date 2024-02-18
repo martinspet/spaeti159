@@ -209,6 +209,7 @@ a {
 }
 
 @font-face {
-  font-family: "Aeonik";
-  src: url("Aeonik-Medium.ttf") format("ttf");
+  font-family: 'Aeonik';
+  src: url('Aeonik-Medium.ttf') format('truetype');
 }
+
