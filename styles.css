@@ -205,10 +205,10 @@ a {
 }
 @font-face {
   font-family: "Ardela Edge Italic Variable X01";
-  src: url("font/ardela-edge-italic-variable-x01.woff") format("ttf");
+  src: url("font/ARDELA EDGE X01 Italic Variable.ttf") format("ttf");
 }
 
 @font-face {
   font-family: "Aeonik";
-  src: url("font/aeonik.woff") format("ttf");
+  src: url("font/Aeonik-Medium.ttf") format("ttf");
 }
